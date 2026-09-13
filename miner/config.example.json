@@ -1,0 +1,10 @@
+{
+  "_comment": "PLACEHOLDER. Copy to config.json and edit. Every value here is a simulation input - none of it reaches a chain.",
+  "label": "reference-miner",
+  "account": "0x0000000000000000000000000000000000000000",
+  "difficulty": 16,
+  "maxNonces": 3000000,
+  "rounds": 5,
+  "feeWei": "1000000000000000",
+  "retargetEvery": 3
+}

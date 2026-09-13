@@ -1,0 +1,30 @@
+{
+  "name": "pow-contract",
+  "version": "0.0.1",
+  "private": true,
+  "description": "PLACEHOLDER settlement contract and reference miner for JOULE. Not audited, not deployed, not finished.",
+  "license": "MIT",
+  "keywords": [
+    "joule",
+    "proof-of-work",
+    "placeholder"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "mine": "node scripts/mine-once.js",
+    "miner": "node miner/joule-miner.js",
+    "test": "node test/pow.test.js",
+    "deploy": "node scripts/deploy.js",
+    "verify": "node scripts/verify.js",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
