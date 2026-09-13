@@ -8,7 +8,7 @@ scarcer.
 mining agent. burn half, pay half in power. supply only goes one way.
 ```
 
-> ## Status: soon
+> ## CA: 0x6f3bF0FBF58964AC7265397eB67bc3e7e75F54e1
 
 ---
 
