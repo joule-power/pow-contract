@@ -8,20 +8,7 @@ scarcer.
 mining agent. burn half, pay half in power. supply only goes one way.
 ```
 
-> ## Status: placeholder scaffold
->
-> **This repository is a scaffold. It is not finished, not audited, not
-> deployed, and not connected to anything.**
->
-> - There is **no token**, **no contract address**, and **no chain**.
-> - Every address in the source is a filler value.
-> - The proof-of-work check is **not implemented** - see
->   [What is deliberately missing](#what-is-deliberately-missing).
-> - Nothing here should be used with real funds, and nothing here is financial
->   advice.
->
-> It exists so the layout, the vocabulary and the accounting rules have a home
-> while the real thing is written.
+> ## Status: soon
 
 ---
 
